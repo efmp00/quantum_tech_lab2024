@@ -1,10 +1,10 @@
 ## Quantum Technology 2024
 Repository where I upload my work in the Quantum Technology course at KTH Royal Institute of Technology. The topics covered are the following:
-- [x] Superconducting Nanowire Single-Photon Detectors.
-- [x] Superconducting Quantum Interference Devices.
-- [x] Quantized Conductance.
+- [x] Superconducting nanowire single-photon detectors (SNSPD).
+- [x] Superconducting quantum interference devices (SQUID).
+- [x] Quantized conductance.
 - [x] Optical continuous variable squeezed light.
-- [x] Quantum Erasure.
+- [x] Quantum erasure.
 
 > [!IMPORTANT]
 > The code uploaded in this repository is mainly written in Python 3.10.12.
