@@ -1,5 +1,5 @@
 ## Quantum Technology 2024
-Repository where I upload the content related to the Quantum Technology course at KTH Royal Institute of Technology. The topics covered are the following:
+Repository where I upload my work in the Quantum Technology course at KTH Royal Institute of Technology. The topics covered are the following:
 - [x] Superconducting Nanowire Single-Photon Detectors.
 - [x] Superconducting Quantum Interference Devices.
 - [x] Quantized Conductance.
